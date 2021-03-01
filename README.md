@@ -1,0 +1,2 @@
+# tamado-bot
+HAI
